@@ -2740,7 +2740,7 @@ declare module "blessed" {
              * Get the last rendered and visible child element based on an index. This is useful for basing the position 
              * of the current child element on the position of the last child element.
             */
-            getLast(i: number): Element;
+            getLast(i: number): BlessedElement;
             /**
              * Get the last rendered and visible child element coords based on an index. This is useful for basing the position 
              * of the current child element on the position of the last child element. See the example below.

@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/massimiliano-mantione/ev3dev-bots#readme",
   "devDependencies": {
+    "@types/node": "^6.0.48",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "eslint": "^3.10.2",
