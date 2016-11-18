@@ -1,0 +1,28 @@
+{
+  "name": "ev3dev-bots",
+  "version": "0.0.1",
+  "description": "Ev3dev bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massimiliano-mantione/ev3dev-bots.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/massimiliano-mantione/ev3dev-bots/issues"
+  },
+  "homepage": "https://github.com/massimiliano-mantione/ev3dev-bots#readme",
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.10"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "shelljs": "^0.7.5"
+  }
+}
