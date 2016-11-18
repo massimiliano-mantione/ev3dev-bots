@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/0bb3ec00dd31d85a43695aca33b72ff69c444ee5/blessed/blessed.d.ts",
+    "raw": "registry:dt/blessed#0.1.81+20160807021644",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/0bb3ec00dd31d85a43695aca33b72ff69c444ee5/blessed/blessed.d.ts"
+  }
+}
